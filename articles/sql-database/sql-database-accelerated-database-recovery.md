@@ -87,7 +87,7 @@ The ADR recovery process has the same three phases as the current recovery proce
 
 The four key components of ADR are:
 
-- **Persisted Version Store (PVS)**
+- **Persisted Version Store (PVS)**asdfasdfdsafddsa
 
   The persisted version store is a new SQL database engine mechanism for persisting the row versions generated in the database itself instead of the traditional `tempdb` version store. PVS enables resource isolation as well as improves availability of readable secondaries.
 
