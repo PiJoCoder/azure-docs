@@ -28,7 +28,7 @@ Azure Synapse has four components:
 - Spark: Deeply integrated Apache Spark (preview)
 - Synapse Pipelines: Hybrid data integration (preview)
 - Studio: Unified user experience. (preview)
-
+asdfasfdsafsda
 ## Synapse SQL pool in Azure Synapse
 
 Synapse SQL pool refers to the enterprise data warehousing features that are generally available in Azure Synapse.
